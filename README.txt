@@ -1,7 +1,9 @@
- O Persoana are un nume si o varsta.
-Un Artist e o Persoana care are mai multe Albume.
-Un Album e caracterizat prin an aparitie, nume si Trackuri.
-Un track e caracterizat de pozitia in album, durata si numele sau. Trebuie sa:
-• se poata adauga/sterge/modifica un album al unui artist
-• se poata adauga/sterge/modifica un track dintr-un album (continuare slideul urmator)
-• sa se afiseze intr-un fisier in ordine cronologica toate albumele unui artist
+
+A Person has a name and an age.
+An Artist is a Person who has multiple Albums.
+An Album is characterized by its release year, name, and Tracks.
+A Track is characterized by its position in the album, duration, and name. It should:
+
+-> Be able to add/remove/modify an album of an artist.
+-> Be able to add/remove/modify a track from an album (continued on the next slide).
+-> Display in a file all albums of an artist in chronological order.
